@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth Shetty</h1>
-<h3 align="center">Full-Stack Developer | Building Dynamic Web Solutions with Next.js And React</h3>
+<h3 align="center">💻 Tech Enthusiast | Software Developer | Full-Stack Developer | Data Engineer Aspirant </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
